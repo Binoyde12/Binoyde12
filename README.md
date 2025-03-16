@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Binoy Krishna Debnath</h1>
 <h3 align="center">A passionate Software Engineer from India</h3>
 
-<img align="right" alt="Coding" width="400" src="![image](https://github.com/user-attachments/assets/dcbceade-d4a1-4fe3-99ad-9bf319bb1b3b)
+<img align="right" alt="Coding" width="400" src="https://github.com/user-attachments/assets/dcbceade-d4a1-4fe3-99ad-9bf319bb1b3b
 ">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=binoyde12&label=Profile%20views&color=0e75b6&style=flat" alt="binoyde12" /> </p>
