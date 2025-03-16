@@ -18,11 +18,8 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> </p>
 
-
-
-<hr>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=binoyde12&show_icons=true&locale=en&layout=compact" alt="binoyde12" /></p>
+<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=binoyde12&show_icons=true&locale=en&layout=compact" alt="binoyde12" /></p>
 
 <p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=binoyde12&show_icons=true&locale=en" alt="binoyde12" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=binoyde12&" alt="binoyde12" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=binoyde12&" alt="binoyde12" /></p>
